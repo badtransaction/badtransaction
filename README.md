@@ -2,4 +2,5 @@
 
 We'll see how this goes.
 
-**Mastodon:** https://indieweb.social/@badtransaction
+**Mastodon:** <a rel="me" href="https://darkfuture.social/@alex">Mastodon</a>
+
